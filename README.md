@@ -1,9 +1,9 @@
 # Matthew Leal - About Me
 
 ## Introduction
-* Pursuing a Bachelor's in Computer Science and planning on taking a Master's.
-* Has experience in Backend and Mobile Development
-* Enjoys doing Game Development as a hobby
+* Finishing a Bachelor's in Computer Science and planning on taking a Master's.
+* Has experience in **Backend** and **Mobile** Development with familiarity on **Databases**.
+* Enjoys doing Game Development as a hobby and participating in Game Jams
 
 
 ## Skills
@@ -32,9 +32,28 @@
 
 
 ## Projects
-QuickChat -
+#### QuickChat
+IOS App designed to help those who struggle to speak with custom premae and on the spot phrases sounded by Text-to-Speech and AI voices.
+* Built with **SwiftUI** for the frontend.
+* Used built-in iOS Text-to-Speech and **Open AI TTS API** for the AI voices.
+* Connects to **Firebase** to store user data and backups online.
+
 [![final_app_demo](https://img.youtube.com/vi/ZdkJUbnjmYw/0.jpg)](https://youtu.be/ZdkJUbnjmYw)
 
-AppointmentManager - [Link to repository](https://github.com/MattLealDev5/AppointmentManager)
 
-GMTK Game Jam 2025 Submission - [Link to repository](https://github.com/MattLealDev5/GMTK2025GameJam)
+#### AppointmentManager
+Fullstack application created to help doctors and other healthcare workers better manage patients and appointments.
+* API **backend** was made using **<span>ASP.NET</span>** and connected to **PostgreSQL** database.
+* Mobile **frontend** was made using **SwiftUI**.
+* Database is deployed on the cloud using **Docker**.
+
+[Link to repository](https://github.com/MattLealDev5/AppointmentManager)
+
+
+#### GMTK Game Jam 2025 Submission
+Submission for the 2025 Game Jam hosted by the [Game Maker's Toolkit YouTube channel](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
+* **Collaborated** with an artist and composer to create concepts and game design.
+* Used **GamemakerStudio2** engine to develop the game
+* Connected to **Firebase** for leaderboard functionality.
+
+[Link to repository](https://github.com/MattLealDev5/GMTK2025GameJam)
