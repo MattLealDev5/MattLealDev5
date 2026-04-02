@@ -16,17 +16,18 @@
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=python" title="Python" alt="Python"/>
         <br>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=firebase" title="Firebase" alt="Firebase"/>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=mysql" title="MySQL" alt="MySQL"/>
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=sql" title="SQL" alt="SQL"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=postgresql" title="PostgreSQL" alt="PostgreSQL"/>
     <h4>Tools</h4>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=xcode" title="Xcode" alt="Xcode"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=vscode" title="VSCode" alt="VSCode"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=claudeai" title="Claude" alt="Claude"/>
+        <br>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=git" title="Git" alt="Git"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=github" title="GitHub" alt="GitHub"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=docker" title="Docker" alt="Docker"/>
     <h4>Game Development</h4>
-        <img src="https://skillicons.dev/icons?i=gamemakerstudio" title="GamemakerStudio2" alt="GamemakerStudio2"/>
+        <img src="https://skillicons.dev/icons?i=gamemakerstudio" title="Gamemaker" alt="Gamemaker"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=unity" title="Unity" alt="Unity"/>
 </div>
 
