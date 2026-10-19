@@ -1,8 +1,8 @@
 # Matthew Leal - About Me
 
 ## Introduction
-* Finishing a Bachelor's in Computer Science and planning on taking a Master's.
-* Has experience in **Backend** and **Mobile** Development with familiarity on **Databases**.
+* Graduated with a Bachelor's in Computer Science and planning on taking a Master's in Computer Science.
+* Has experience in **Fullstack** and **Mobile** Development with familiarity on **Databases**.
 * Enjoys doing Game Development as a hobby and participating in Game Jams
 
 
@@ -14,6 +14,7 @@
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=csharp" title="C#" alt="C#"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=dotnet" title=".NET" alt=".NET"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=python" title="Python" alt="Python"/>
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs" title="Node.js" alt="Node.js"/>
         <br>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=firebase" title="Firebase" alt="Firebase"/>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=sql" title="SQL" alt="SQL"/>
